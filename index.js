@@ -1,9 +1,9 @@
 const Resume = <div className="Resume">
     <div className="headercontainer">
-        <h1>Avinash Kodre</h1>
-        <p> Software Developer, Educator at Geekster</p>
+        <h1>Abhishek yadav</h1>
+        <p> Software Developer, student at Geekster</p>
 
-        <div><a href="https://www.linkedin.com/in/avinash-kodre/">Linkedin</a> <a href="https://github.com/avikodre03">Github</a></div>
+        <div><a href="https://www.linkedin.com/in/abhishek/">Linkedin</a> <a href="https://github.com/abhishek210">Github</a></div>
         <br />
         <hr />
     </div>
